@@ -24,4 +24,3 @@ Final Keyword (Works like the const keyword in C++):
     2. Class: Prevents inheritance. A class declared as final cannot be inherited.
     3. Method: Prevents method overriding; the method cannot be overridden in child classes.
 */
-
