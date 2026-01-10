@@ -1,3 +1,5 @@
+// Type-casting is of two types: 1. Upcasting 2. Downcasting
+
 // Parent class
 class A {
     public void show1() {
