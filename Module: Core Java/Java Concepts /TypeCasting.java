@@ -20,6 +20,7 @@ public class TypeCasting {
 
         // ---------------- UPCASTING ----------------
         // Parent reference holding a Child object
+    
         A obj = new B();
         obj.show1();   // Allowed: method of parent class
 
@@ -29,3 +30,4 @@ public class TypeCasting {
         obj1.show2();  // Allowed: method of child class
     }
 }
+
